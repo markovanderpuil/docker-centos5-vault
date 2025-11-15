@@ -2,7 +2,7 @@
 
 [fasttrack]
 name=CentOS-5 - fasttrack
-baseurl=http://linuxsoft.cern.ch/centos-vault/5.11/fasttrack/$basearch/
+baseurl=http://vault.epel.cloud/5.11/fasttrack/$basearch/
 gpgcheck=1
 enabled=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-5
